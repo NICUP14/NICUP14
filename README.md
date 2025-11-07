@@ -1,16 +1,17 @@
-## Hi there 👋
+## NICUP14
 
-<!--
-**NICUP14/NICUP14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student, SysAdmin, Developer, Programming Language Designer & Reverse Engineering Enthusiast.
 
-Here are some ideas to get you started:
+![Stats](https://github-readme-stats.vercel.app/api?username=NICUP14&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NICUP14&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+Try my [ArchLinux Environment](https://github.com/NICUP14/ArchEnv)!
+
+Projects:
+
+* [DebDroid](https://github.com/NICUP14/DebDroid)
+* [MiniLang](https://github.com/NICUP14/MiniLang)
+* [Calculator](https://github.com/NICUP14/Calculator)
+* [Printf](https://github.com/NICUP14/Printf)
+* Chain (Coming Soon!)
